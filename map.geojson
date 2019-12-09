@@ -1,0 +1,15 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","properties":{"name":"Lednicko-Valtický areál"},"geometry":{"type":"Point","coordinates":[16.80607795715332,48.8023268812197]}},
+{"type":"Feature","properties":{"name":"Brno - Vila Tugendhat"},"geometry":{"type":"Point","coordinates":[16.61607027053833,49.20715591227424]}},
+{"type":"Feature","properties":{"name":"Kroměříž - Zahrady a zámek"},"geometry":{"type":"Point","coordinates":[17.39339053630829,49.30034765403854]}},
+{"type":"Feature","properties":{"name":"Olomouc - Sloup Nejsvětější trojice"},"geometry":{"type":"Point","coordinates":[17.250471711158752,49.59392481283537]}},
+{"type":"Feature","properties":{"name":"Litomyšl - Zámek"},"geometry":{"type":"Point","coordinates":[16.31316304206848,49.873439190210036]}},
+{"type":"Feature","properties":{"name":"Třebíč - Bazilika sv. Prokopa a židovská čtvrť"},"geometry":{"type":"Point","coordinates":[15.87375819683075,49.216924337606734]}},
+{"type":"Feature","properties":{"name":"Telč - Historické centrum"},"geometry":{"type":"Point","coordinates":[15.454416275024414,49.18397555911796]}},
+{"type":"Feature","properties":{"name":"Český Krumlov - Historické centrum"},"geometry":{"type":"Point","coordinates":[14.31492805480957,48.81082026730451]}},
+{"type":"Feature","properties":{"name":"Holašovice"},"geometry":{"type":"Point","coordinates":[14.272892475128174,48.96931548154928]}},
+{"type":"Feature","properties":{"name":"Krušné hory/Ergebirge - Hornická oblast"},"geometry":{"type":"Point","coordinates":[12.95337438583374,50.32894333680514]}},
+{"type":"Feature","properties":{"name":"Kladruby nad Labem - Národní hřebčín"},"geometry":{"type":"Point","coordinates":[15.485208034515383,50.057820699298965]}},
+{"type":"Feature","properties":{"name":"Praha - Historické centrum"},"geometry":{"type":"Point","coordinates":[14.421192,50.087564]}},
+{"type":"Feature","properties":{"name":"Kutná Hora - Chrám sv. Barbory a kostel Nanebevzetí Panny Marie v Sedlci"},"geometry":{"type":"Point","coordinates":[15.26370048522949,49.94490982646117]}},
+{"type":"Feature","properties":{"name":"Žďár nad Sázavou - Poutní kostel sv. Jana Nepomuckého na Zelené hoře"},"geometry":{"type":"Point","coordinates":[15.94196677207947,49.58016003728011]}}]}
