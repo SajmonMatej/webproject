@@ -1,0 +1,150 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [50.08747, 14.42138]
+  },
+  "properties": {
+    "name": "Praha - Historické centrum"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.81062, 14.31501]
+  },
+  "properties": {
+    "name": "Český Krumlov - Historické centrum"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.18391, 15.45445]
+  },
+  "properties": {
+    "name": "Telč - Historické centrum"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.94495, 15.26364]
+  },
+  "properties": {
+    "name": "Kutná Hora - Historické centrum, Chrám sv. Barbory, Katedrála Nanebevzetí Panny Marie v Sedlci"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.58014, 15.94202]
+  },
+  "properties": {
+    "name": "Žďár nad Sázavou - Poutní kostel sv. Jana Nepomuckého na Zelené Hoře"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.97025, 14.27290]
+  },
+  "properties": {
+    "name": "Holašovice"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.8090, 16.8079]
+  },
+  "properties": {
+    "name": "Lednicko-Valtický areál"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.8090, 16.8079]
+  },
+  "properties": {
+    "name": "Lednicko-Valtický areál"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.3042, 17.3930]
+  },
+  "properties": {
+    "name": "Kroměříž - Zahrady a zámek"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.87331, 16.31282]
+  },
+  "properties": {
+    "name": "Litomyšl - Zámek"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.59393, 17.25044]
+  },
+  "properties": {
+    "name": "Olomouc - Sloup Nejsvětější Trojice"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.20717, 16.61607]
+  },
+  "properties": {
+    "name": "Brno - Vila Tugendhat"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.21691, 15.87344]
+  },
+  "properties": {
+    "name": "Třebíč - Židovská čtvrť a bazilika sv. Prokopa"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [49.21691, 15.87344]
+  },
+  "properties": {
+    "name": "Kladruby nad Labem - Hřebčín"
+  }
+}
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [50.32895, 12.95341]
+  },
+  "properties": {
+    "name": "Krušné hory/Erzgebirge - Hornický region"
+  }
+}
